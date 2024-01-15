@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/naya1503/Naya-Userbot.git"
+REPO="https://github.com/Mericantik/Zennnith-Userbot.git"
 DIR="/root/Mericantik"
 
 spinner(){
